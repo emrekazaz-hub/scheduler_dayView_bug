@@ -8,9 +8,11 @@ When changing the calendar view mode to "Day" view, the UI breaks down and becom
 
 The video below shows the bug in action:
 
-<video src="Screen Recording 2025-11-21 at 3.03.58 PM.mp4" controls width="100%"></video>
+[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Video-red)](https://github.com/emrekazaz-hub/scheduler_dayView_bug/raw/main/Screen%20Recording%202025-11-21%20at%203.03.58%20PM.mp4)
 
-*If the video doesn't play inline, you can [download it here](./Screen%20Recording%202025-11-21%20at%203.03.58%20PM.mp4)*
+**Direct video link:** [Screen Recording 2025-11-21 at 3.03.58 PM.mp4](./Screen%20Recording%202025-11-21%20at%203.03.58%20PM.mp4)
+
+*Click the link above to view the video demonstrating the Android day view bug.*
 
 ## 🔍 Steps to Reproduce
 
