@@ -2,4 +2,7 @@
 
 When changing the calendar view mode to "Day" view, the UI breaks down. This issue only occurs on Android.
 
-[Watch Video](https://github.com/emrekazaz-hub/scheduler_dayView_bug/raw/main/Screen%20Recording%202025-11-21%20at%203.03.58%20PM.mp4)
+
+
+https://github.com/user-attachments/assets/915c72bc-bd85-4650-a5d1-749df7113e72
+
