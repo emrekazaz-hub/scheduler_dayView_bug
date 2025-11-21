@@ -8,9 +8,9 @@ When changing the calendar view mode to "Day" view, the UI breaks down and becom
 
 The video below shows the bug in action:
 
-<video src="Screen Recording 2025-11-21 at 3.03.58 PM.mov" controls width="100%"></video>
+<video src="Screen Recording 2025-11-21 at 3.03.58 PM.mp4" controls width="100%"></video>
 
-*If the video doesn't play inline, you can [download it here](./Screen%20Recording%202025-11-21%20at%203.03.58%20PM.mov)*
+*If the video doesn't play inline, you can [download it here](./Screen%20Recording%202025-11-21%20at%203.03.58%20PM.mp4)*
 
 ## 🔍 Steps to Reproduce
 
